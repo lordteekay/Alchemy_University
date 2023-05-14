@@ -15,3 +15,4 @@ console.log(numberOfPizzas([
     { type: 'WINGS' },
     { type: 'SALAD' }
   ])); 
+  console.log(Math.round(5/2));
